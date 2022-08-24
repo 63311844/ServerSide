@@ -21,3 +21,6 @@ app.listen(port, function () {
 app.listen(port, function () {
     console.log('server running on ' + port)
    })
+   app.listen(port, function () {
+    console.log('server running on ' + port)
+   })
